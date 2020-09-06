@@ -1,0 +1,13 @@
+# Changelog
+
+## Version 2.0.0
+Move to AWS V4 signatures
+
+## Version 1.1.1
+AWS date header is computed unconditionally. See #11
+
+## Version 1.1.0
+Extend functionality beyond simple GET. See #5
+
+## Version 1.0.0
+Start maintaining version numbers
